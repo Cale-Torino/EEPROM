@@ -29,6 +29,8 @@ My list as of now contains a few decent sellers
 - [Next Dimension Electronics](https://nde3d.co.za)
 - [Prototype DIY](https://www.prototypediy.co.za)
 
+Two series of EEPROM seem to be quite common the *24L I2C* chips from Microchip and the *AT24 I2C* chips originally from Atmel now also from Microchip, with the former being much more available I decided to use that series.
+
 *IMPORTANT never ever by electronic IC components from takealot the prices are extremely inflated and the price to value ratio is terrible!
 
 I managed to find a suitable line of EEPROM ICs the *Microchip Technology 24L I2C Serial EEPROM* series.
