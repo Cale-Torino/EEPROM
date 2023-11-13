@@ -1,5 +1,7 @@
 # EEPROM
 
+[<img src="img/eeprom.JPG" width="500"/>](img/eeprom.JPG)
+
 Affordable commonly available **EEPROMs** in *south africa* and how to use them.
 
 When looking for components I always keep a few points in mind
